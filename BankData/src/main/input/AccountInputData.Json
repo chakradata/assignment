@@ -1,0 +1,12 @@
+[
+    {
+      "name":"AccountID",
+      "type":"2"
+    },
+    {
+      "name":"AccountType",
+      "type":"int",
+      "valid_values":"1,2,3,4"
+    }
+  ]
+

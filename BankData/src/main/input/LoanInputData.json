@@ -1,0 +1,18 @@
+{
+ "type":"record",
+ "name":"LoanSchema",
+ "fields":[
+ {
+ "name":"LoanId",
+ "type":"long"
+ },
+ {
+ "name":"AccountId",
+ "type":"long"
+ },
+ {
+ "name":"Amount",
+ "type":"decimal"
+ }
+ ]
+}
